@@ -3,7 +3,6 @@ package com.example.assignment9.flag
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import com.example.assignment9.network.Countries
 import com.example.assignment9.network.CountriesContainer
 import com.example.assignment9.network.FlagApi
 import kotlinx.coroutines.CoroutineScope

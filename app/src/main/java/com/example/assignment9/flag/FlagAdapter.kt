@@ -5,7 +5,6 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.example.assignment9.databinding.FlagItemBinding
-import com.example.assignment9.network.Countries
 import com.example.assignment9.network.CountriesContainer
 
 class FlagAdapter(
